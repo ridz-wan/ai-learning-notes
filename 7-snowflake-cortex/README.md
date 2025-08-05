@@ -4,6 +4,7 @@
 - [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql) 
 - [Getting Started with Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai)
 - [Getting Started with Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst)
+- [Getting Started with Snowflake Semantic View](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
 - [Getting Started with Cortex Agents](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents)
 - [Getting Started with Cortex Knowledge Extensions](https://quickstarts.snowflake.com/guide/get-started-snowflake-cortex-knowledge-extensions)
 - [Getting Started with Cortex Agents and Slack](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_slack)
@@ -32,3 +33,10 @@
 18. [Build an AI-Powered Data Processing Pipeline with Modin and Snowflake Cortex](https://quickstarts.snowflake.com/guide/process-modin-dataframe-with-cortex)
 19. [Building AI Assistant using Snowflake Cortex in Snowflake Notebooks](https://quickstarts.snowflake.com/guide/ai_assistant_for_sales_calls)
 20. [Optimizing Network Operations with Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/optimizing-network-operations-with-cortex-ai-call-transcripts-and-tower-data-analysis)
+21. [Getting Started with Time Series Analytics with Pricing Data on Snowflake](https://quickstarts.snowflake.com/guide/getting-started-with-time-series-analytics-with-pricing-data-on-snowflake)
+
+## Other AI related stuff
+- []
+- [Getting Started with Traces](https://quickstarts.snowflake.com/guide/getting_started_with_traces)
+- [Getting Started with Event Tables and Alerts](https://quickstarts.snowflake.com/guide/alert_on_events)
+- [Getting Started with AI Observability](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
