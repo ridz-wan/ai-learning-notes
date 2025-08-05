@@ -1,16 +1,16 @@
 # Snowflake Cortex Tutorials and Quick Starts
 
 ## Getting Started (Basic)
-- [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql) 
-- [Getting Started with Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai)
-- [Getting Started with Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst)
-- [Getting Started with Snowflake Semantic View](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
-- [Getting Started with Cortex Agents](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents)
-- [Getting Started with Cortex Knowledge Extensions](https://quickstarts.snowflake.com/guide/get-started-snowflake-cortex-knowledge-extensions)
-- [Getting Started with Cortex Agents and Slack](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_slack)
-- [Getting Started with Llamaparse and Cortex Search](https://quickstarts.snowflake.com/guide/getting-started-with-llamaparse-and-cortex-search)
-- [Getting Started with Snowflake Agents API and React](https://quickstarts.snowflake.com/guide/getting_started_with_snowflake_agents_api_and_react)
-- [Getting Started with Tool Use on Cortex and Anthropic Claude](https://quickstarts.snowflake.com/guide/getting-started-with-tool-use-on-cortex-and-anthropic-claude)
+1. [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql) 
+2. [Getting Started with Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai)
+3. [Getting Started with Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst)
+4. [Getting Started with Snowflake Semantic View](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
+5. [Getting Started with Cortex Agents](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents)
+6. [Getting Started with Cortex Knowledge Extensions](https://quickstarts.snowflake.com/guide/get-started-snowflake-cortex-knowledge-extensions)
+7. [Getting Started with Cortex Agents and Slack](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_slack)
+8. [Getting Started with Llamaparse and Cortex Search](https://quickstarts.snowflake.com/guide/getting-started-with-llamaparse-and-cortex-search)
+9. [Getting Started with Snowflake Agents API and React](https://quickstarts.snowflake.com/guide/getting_started_with_snowflake_agents_api_and_react)
+10. [Getting Started with Tool Use on Cortex and Anthropic Claude](https://quickstarts.snowflake.com/guide/getting-started-with-tool-use-on-cortex-and-anthropic-claude)
 
 ## Advanced
 1. [Build a CineBot with Snowflake Native Apps and Snowflake Cortex](https://quickstarts.snowflake.com/guide/build-a-cinebot-with-snowflake-native-apps-and-cortex)
@@ -36,7 +36,6 @@
 21. [Getting Started with Time Series Analytics with Pricing Data on Snowflake](https://quickstarts.snowflake.com/guide/getting-started-with-time-series-analytics-with-pricing-data-on-snowflake)
 
 ## Other AI related stuff
-- []
-- [Getting Started with Traces](https://quickstarts.snowflake.com/guide/getting_started_with_traces)
-- [Getting Started with Event Tables and Alerts](https://quickstarts.snowflake.com/guide/alert_on_events)
-- [Getting Started with AI Observability](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
+1. [Getting Started with Traces](https://quickstarts.snowflake.com/guide/getting_started_with_traces)
+2. [Getting Started with Event Tables and Alerts](https://quickstarts.snowflake.com/guide/alert_on_events)
+3. [Getting Started with AI Observability](https://quickstarts.snowflake.com/guide/snowflake-semantic-view)
