@@ -20,3 +20,4 @@ Hi there! I'm Ridwan, a passionate Data Analyst with expert domain knowledge in 
 4. [Coding Entrepreneurs (cfe) by Justin](./4-cfe/README.md)
 5. [Harper Carroll AI](./5-harper-carroll/README.md)
 6. [My Research](./6-my-research/README.md)
+7. [Snowflake Cortex](./7-snowflake-cortex/README.md)
