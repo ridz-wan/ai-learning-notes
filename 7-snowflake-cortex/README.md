@@ -11,6 +11,7 @@
 8. [Getting Started with Llamaparse and Cortex Search](https://quickstarts.snowflake.com/guide/getting-started-with-llamaparse-and-cortex-search)
 9. [Getting Started with Snowflake Agents API and React](https://quickstarts.snowflake.com/guide/getting_started_with_snowflake_agents_api_and_react)
 10. [Getting Started with Tool Use on Cortex and Anthropic Claude](https://quickstarts.snowflake.com/guide/getting-started-with-tool-use-on-cortex-and-anthropic-claude)
+11. [Getting Started with Snowflake Intelligence](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-intelligence)
 
 ## Advanced
 1. [Build a CineBot with Snowflake Native Apps and Snowflake Cortex](https://quickstarts.snowflake.com/guide/build-a-cinebot-with-snowflake-native-apps-and-cortex)
