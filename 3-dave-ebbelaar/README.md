@@ -44,14 +44,38 @@ LLMs are non-deterministic; so need a framework to monitor and evaluate your app
 Improve software engineering skills, but keep a data science mindset because AI app is non-determeinistic.
 
 ## 3. What Topics to Learn
-- [Building Apps with LangChain & LLMs Playlist](https://www.youtube.com/watch?v=NYSWn1ipbgg&list=PL-Y17yukoyy3zzoMJNkWQuogKbWGyBL-d)
-- [Structured Outpul with LLMs Playlist](https://www.youtube.com/watch?v=p6mkittu8Zc&list=PL-Y17yukoyy0hC9_FxTx4w9LASw9xsJXt)
-- [Building AI Agents Playlist](https://www.youtube.com/watch?v=0pGxoubWI6s&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG)
-- [Prompt Engineering 101](https://www.youtube.com/watch?v=Qddc_DNo9qY)
-- [RAG and Vector Embeddings](https://www.youtube.com/watch?v=hAdEuDBN57g)
+### Build AI Apps using LangChain
+- [Build Your Own Auto-GPT Apps with LangChain (Python Tutorial)](https://www.youtube.com/watch?v=NYSWn1ipbgg&t=14s)
+- [Building Slack AI Assistants with Python & LangChain](https://www.youtube.com/watch?v=3jFXRNn2Bu8&t=17s)
+- [How to Deploy AI Apps to the Cloud with Flask & Azure](https://www.youtube.com/watch?v=fTEwGcPqLa8&t=145s)
+- [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
+- [Pandas DataFrame Agent... the future of data analysis?](https://www.youtube.com/watch?v=K3VEXvOo9yg)
+
+### Structured Output with LLMs
+- [OpenAI Function Calling - Full Beginner Tutorial](https://www.youtube.com/watch?v=aqdWSYWC_LI&t=591s)
+- [Building Reliable LLM Apps with OpenAI (Instructor Tutorial)](https://www.youtube.com/watch?v=zt1zCwLrSPg&list=PL-Y17yukoyy0hC9_FxTx4w9LASw9xsJXt&index=4)
+- [How to Build an AI Classification System (Python Tutorial)](https://www.youtube.com/watch?v=yMXxmdwndsU&list=PL-Y17yukoyy0hC9_FxTx4w9LASw9xsJXt&index=3)
+- [OpenAI Structured Output - All You Need to Know](https://www.youtube.com/watch?v=fuMKrKlaku4&list=PL-Y17yukoyy0hC9_FxTx4w9LASw9xsJXt&index=2)
+- [This LLM Factory Class Will Improve Your AI Apps](https://www.youtube.com/watch?v=p6mkittu8Zc&list=PL-Y17yukoyy0hC9_FxTx4w9LASw9xsJXt)
+
+### Building AI Agents
+- [17 Python Libraries Every AI Engineer Should Know](https://www.youtube.com/watch?v=p4G0coRey9w&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG&index=4)
 - [How to Build AI Agents with PydanticAI](https://www.youtube.com/watch?v=zcYtSckecD8)
+- [How to Build Effective AI Agents (without the hype)](https://www.youtube.com/watch?v=tx5OapbK-8A&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG&index=3)
+- [Building AI Agents in Pure Python - Beginner Course](https://www.youtube.com/watch?v=bZzyPscbtI8&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG&index=2)
+- [How to Get Your Data Ready for AI Agents (Docs, PDFs, Websites)](https://www.youtube.com/watch?v=9lBTS5dM27c&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG&index=1)
 - [How to Build Self-Learning AI Agents](https://www.youtube.com/watch?v=ynhl8KjjS3Y)
 - [How to Build Reliable AI Agents in 2025](https://www.youtube.com/watch?v=T1Lowy1mnEg)
+
+### Other Topics
+- [LangChain just launched their new "LangSmith" platform](https://www.youtube.com/watch?v=Weod3-ZPaPM)
+- [LangSmith Tutorial - LLM Evaluation for Beginners](https://www.youtube.com/watch?v=tFXm5ijih98&t=32s)
+- [The Rise of the "New-Age" Machine Learning Engineer](https://www.youtube.com/watch?v=7Llbh9ix3V0)
+- [OpenAI Assistants Tutorial for Beginners](https://www.youtube.com/watch?v=0h1ry-SqINc)
+- [How to Build Chatbot Interfaces with Python](https://www.youtube.com/watch?v=nSeQl6Ehfk0)
+- [Prompt Engineering 101](https://www.youtube.com/watch?v=Qddc_DNo9qY)
+- [OpenAI Just Changed Everything (Responses API Walkthrough)](https://www.youtube.com/watch?v=0pGxoubWI6s&t=9s)
+- [RAG and Vector Embeddings](https://www.youtube.com/watch?v=hAdEuDBN57g)
 - [Model Context Protocol (MCP) explained best to data professionals](https://www.youtube.com/watch?v=5xqFjh56AwM&t=3325s)
 - [FastAPI for AI Engineers](https://www.youtube.com/watch?v=-IaCV5-mlSk)
 - [Build Better LLM Apps with Assertion-Based Unit Tests](https://www.youtube.com/watch?v=bnvOk1fm0tw)
